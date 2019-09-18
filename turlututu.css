@@ -1,0 +1,102 @@
+ul#menu li {
+    display: inline-flex;
+    width: 100 %;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.men {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    width: 100%;
+}
+
+.men button {
+    background-color: #1687ed;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    display: inline-block;
+    justify-content: center;
+}
+
+.men button:last-child {
+    background-color: #e99002;
+}
+
+header {
+    background-color: #333333;
+}
+
+.start1 {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    width: 100%;
+}
+
+.start1 button {
+    background-color: #e99002;
+    border: solid white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-flex;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #030202;
+    font-size: 2em;
+}
+
+.awesome {
+    background-color: white;
+    text-align: center;
+    font-size: 2em;
+    color
+}
+
+section {
+    background-color: white;
+    column-count: 2;
+}
+
+.bleu {
+    background-color: #1e93cc;
+    font-size: 2em;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.titre {
+    text-align: center;
+    color: white;
+}
+
+ul#sponsor {
+    column-count: 6;
+    background-color: #EFEFEF;
+    width: 100%;
+    padding: 150px 10px 150px 200px;
+}
+
+.log {
+    margin-left: 90%;
+}
